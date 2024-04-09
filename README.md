@@ -2,7 +2,7 @@
 
 This project can be found at https://seanpotts.ca/
 
-It is hosted on Microsoft Azure and was Created using React. 
+It is hosted on Microsoft Azure and was created using React. 
 
 
 
