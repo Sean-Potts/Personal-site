@@ -1,6 +1,7 @@
 # Personal Portfolio Website
 
 This project can be found at https://seanpotts.ca/
+
 It is hosted on Microsoft Azure and was Created using React. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
